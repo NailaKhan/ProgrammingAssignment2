@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Create a Matrix which can cache it's inverse
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
